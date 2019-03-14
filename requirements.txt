@@ -12,3 +12,4 @@ sklearn==0.0
 tensorflow==0.10.0
 Theano==0.8.2
 Xgboost
+lightgbm
